@@ -1,3 +1,15 @@
+Website Akbar Jaya Dashboard adalah platform web sederhana yang dirancang untuk mendukung aktivitas operasional sebuah toko dengan tampilan yang bersih, ringan, dan mudah digunakan. Web ini memiliki fitur login, serta menampilkan halaman dashboard yang memberikan sambutan kepada pengguna setelah berhasil masuk. Selain itu, terdapat navigasi menu (navbar) yang stylish dengan akses cepat ke fitur-fitur seperti Dashboard, Profil, dan Logout. Tombol Logout dibuat lebih mencolok agar mudah dikenali oleh pengguna yang ingin keluar dari sistem.
+
+Pengguna yang ingin mengakses sistem cukup membuka halaman login, kemudian memasukkan username dan password. Setelah berhasil login, pengguna akan diarahkan ke halaman dashboard yang berisi informasi awal dan gambar ilustrasi toko. Navigasi di bagian atas memudahkan pengguna berpindah antar halaman. Halaman login juga memiliki background gambar yang dapat disesuaikan sesuai tema toko, sehingga memberi kesan profesional dan personal.
+
+Website ini dibangun menggunakan Laravel Blade Template dan CSS murni tanpa framework tambahan. File gambar, CSS, dan tampilan HTML dipisahkan untuk menjaga struktur proyek tetap rapi. Proyek ini ideal digunakan untuk keperluan tugas kuliah
+
+Menggunakan 
+- HTML5 & CSS3
+- Laravel Blade
+- Custom CSS/ CSS Manila (tidak menggunakan framework seperti Bootstrap)
+- File statis seperti gambar disimpan di folder `public/images`
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
