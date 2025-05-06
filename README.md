@@ -7,7 +7,7 @@ Website ini dibangun menggunakan Laravel Blade Template dan CSS murni tanpa fram
 Menggunakan 
 - HTML5 & CSS3
 - Laravel Blade
-- Custom CSS/ CSS Manila (tidak menggunakan framework seperti Bootstrap)
+- Custom CSS/ CSS Vanila (tidak menggunakan framework seperti Bootstrap)
 - File statis seperti gambar disimpan di folder `public/images`
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
